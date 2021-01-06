@@ -1,5 +1,4 @@
 
-
 .nav{width:100%;border-bottom: 2px solid grey;height:65px ;       margin-left: 0px;}
 .l1{float: left;padding:17px;font-size: 28px;color:grey;font-family:fantasy;}
 .head{font-family: Arial, Helvetica, sans-serif;font-size: 40px;}
@@ -22,7 +21,7 @@ button{background-color: gold;color:black;border-radius: 5px;font-family: Arial,
 
 
 
-.boxes{     display: inline-flex;   height: 500px;    padding: 41px}
+.boxes{     margin-left: 26px;    display: inline-flex;   height: 500px;    padding: 41px}
 .boxa {float: left;    border-bottom: 3px solid gray;
     text-align: center;width: 30%;margin: 0px 23px;height: 450px;
  }
@@ -52,6 +51,9 @@ footer.contain {
 
 
 
+
+div#main {
+    margin-left: -60px;
 
 
 
