@@ -1,0 +1,57 @@
+
+
+.nav{width:100%;border-bottom: 2px solid grey;height:65px ;       margin-left: 0px;}
+.l1{float: left;padding:17px;font-size: 28px;color:grey;font-family:fantasy;}
+.head{font-family: Arial, Helvetica, sans-serif;font-size: 40px;}
+.head2{color:orangered;font-size: 50px;}
+.fulldiv{    margin-bottom: 37px;width: 100%;border:1px solid white;height: 440px;margin-top: 40px;}
+.halfdiv{   float: left;    width: 42%;
+    margin-left: 100px;
+    margin-top: 43px;}
+.halfdiv2{float: right;width: 48%;   height: 497px;}
+.image{margin-left: 150px;}
+.fulldiv2 {
+    width: 100%;    height: 555px;}
+.halfdiv3{width:47%;    height: 440PX;float: left;} 
+img.image2 {
+    height: 440PX;
+    margin-left: 200PX;}
+.halfdiv4{width: 47%;     float: right;    margin-top: 58px;} 
+.about{color: orangered;font-size: 40px;font-family: Arial, Helvetica, sans-serif;}  
+button{background-color: gold;color:black;border-radius: 5px;font-family: Arial, Helvetica, sans-serif;padding: 10px;font-size: 18px;} 
+
+
+
+.boxes{     display: inline-flex;   height: 500px;    padding: 41px}
+.boxa {float: left;    border-bottom: 3px solid gray;
+    text-align: center;width: 30%;margin: 0px 23px;height: 450px;
+ }
+.boxb{width: 30%;margin: 0px 23px;margin-right: 43px;    border-bottom: 3px solid gray;height: 450px;}
+.boxc{ width: 30%;    border-bottom: 3px solid gray;height: 450px;}
+.picture{padding-top: 20px;margin: 0px 23px;}
+.boxes h1 {
+    margin-left: 51px}
+#header{text-align: center;font-size: 50px;font-family: Arial, Helvetica, sans-serif;margin-left:75px;} 
+#short{color: orangered;}  
+.paragraph{margin-left: 51px;}
+
+
+
+
+
+
+.works{font-size: 35px;font-family: Arial, Helvetica, sans-serif;    margin-top: 56px;    margin-left: 37px;}
+.contain{width:880px;height:157px;border:1px solid;margin-left: 264px;    background-color: darkgoldenrod;}
+#hire{    font-style: italic;
+    font-size: 16px;
+    margin-left: 287px;}
+footer.contain {
+        border-radius: 40px; }
+#lastone{text-align: center;margin-top: 60px;}  
+#stay{color: rgb(34, 126, 34);}
+
+
+
+
+
+
